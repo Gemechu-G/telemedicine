@@ -1,2 +1,2 @@
 # telemedicine
-kun platform telemedicine irratti hojjennudha
+# final university graduation project
