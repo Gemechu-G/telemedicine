@@ -1,2 +1,2 @@
-# telemedicine
- final university graduation project
+# Telemedicine
+ final year university graduation project
